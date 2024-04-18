@@ -83,15 +83,6 @@ console.log(firstMovie);
 
 //STEP 12
 
-let arr = [58, '', 'abcd', true, null, false, 0];
-
-arr = arr.map(el => {
-    if(el){
-        return el;
-    }
-});
-
-console.log(arr);
 
 //STEP 13
 
